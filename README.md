@@ -1,3 +1,5 @@
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+FDBotz!;created+by+FDBotz+Admin+Mohammed+Fadil!;Enjoy!)
+
 - 👋 Hi, I’m @Fadilep
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning BIO-Science
