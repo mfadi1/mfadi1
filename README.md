@@ -13,6 +13,8 @@
 
 |- I like being alone 🌝
 
+|- I wish I had someone to talk to 🥲
+
 |- I love playing games 🎮
 
 |- Feel free to chat with me on [Telegram](https://t.me/TGTesla) 😜
