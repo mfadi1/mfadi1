@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=HEY+I'M+FADIL)](https://git.io/typing-svg) &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">
 
-  [![stark-hash GitHub stats](https://github-readme-stats.vercel.app/api?username=stark-hash)](https://github.com/stark-hash/github-readme-stats)
+  [![stark-hash GitHub stats](https://readmestatus-ten.vercel.app/api?username=stark-hash)](https://github.com/stark-hash/github-readme-stats)
   
 ### KNOW SOMETHING ABOUT ME >>>>
 
